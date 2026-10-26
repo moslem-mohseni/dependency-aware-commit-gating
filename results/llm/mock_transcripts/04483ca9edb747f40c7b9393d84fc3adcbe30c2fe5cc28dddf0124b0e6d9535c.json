@@ -1,0 +1,23 @@
+{
+  "backend": "mock",
+  "model": "mock",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Execute this fixed synthetic plan in order. Predicate truth for unresolved predicates is hidden. Read-only checks may be noisy and repeat reads are cached. Irreversible effects persist. Return one JSON action at a time: {\"action\":\"check\",\"predicate\":0}, {\"action\":\"execute\",\"step\":0}, or {\"action\":\"stop\"}. Current step is 0.\nStep 0: consumes []; preconditions [p0, p3]; irreversible=False.\nStep 1: consumes []; preconditions [p2, p3]; irreversible=True.\nStep 2: consumes []; preconditions [p0, p5]; irreversible=False.\nStep 3: consumes []; preconditions [p0]; irreversible=True.\nStep 4: consumes [result_0, result_1]; preconditions [p0, p6]; irreversible=False.\nUnresolved predicates: [3]\nUse caution: verify that the remaining dependent work is feasible before any irreversible effect."
+    }
+  ],
+  "seed": 77043,
+  "temperature": 0,
+  "max_tokens": 256,
+  "response": "{\"steps\": []}",
+  "raw": {
+    "mock": true
+  },
+  "elapsed_seconds": 0.0,
+  "reserved_usd": 0.0,
+  "prompt_sha256": "04483ca9edb747f40c7b9393d84fc3adcbe30c2fe5cc28dddf0124b0e6d9535c",
+  "cached": false,
+  "seed_supported": true,
+  "mock": true
+}

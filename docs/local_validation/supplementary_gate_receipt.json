@@ -1,0 +1,11 @@
+{
+  "exit_code": 0,
+  "manifest_entries": 371,
+  "tests": 18,
+  "build": "passed",
+  "number_audit": "passed",
+  "manuscript_audit": "passed",
+  "extraction": "_backup/2026-10-26/P5_zip_check_v2",
+  "final_pdf_pages": 9,
+  "final_review": "v2 pages 1/4/6 reviewed directly; other six pages pixel-identical to reviewed final pages"
+}

@@ -1,0 +1,23 @@
+{
+  "backend": "mock",
+  "model": "mock",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Extract only explicit producer dependencies from these step contracts. Return JSON {\"edges\":[[producer,consumer]]}. No predicate truth is supplied.\nStep 0: consumes []; preconditions [p3]; irreversible=False.\nStep 1: consumes [result_0]; preconditions [p6]; irreversible=True.\nStep 2: consumes [result_0, result_1]; preconditions [p7]; irreversible=False.\nStep 3: consumes []; preconditions [p1, p5]; irreversible=False.\nStep 4: consumes [result_3]; preconditions [p5]; irreversible=False.\nStep 5: consumes [result_0, result_2, result_3]; preconditions [p3, p5]; irreversible=False."
+    }
+  ],
+  "seed": 77049,
+  "temperature": 0,
+  "max_tokens": 256,
+  "response": "{\"steps\": []}",
+  "raw": {
+    "mock": true
+  },
+  "elapsed_seconds": 0.0,
+  "reserved_usd": 0.0,
+  "prompt_sha256": "b9556d4185312e378e40d68681ad8a6cb06cacd455107946b7817a6448735850",
+  "cached": false,
+  "seed_supported": true,
+  "mock": true
+}

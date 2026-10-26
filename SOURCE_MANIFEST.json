@@ -1,0 +1,74 @@
+{
+  "paper": "P5",
+  "normalization": "Text line endings normalized to LF; binary files exact",
+  "files": {
+    "src/analyze.py": {
+      "mode": "lf",
+      "sha256": "f17e7fdb1f9bdb5bc2becb71bebfb27f98c57e15f7f1ddd0e35c9a3b04c7519e"
+    },
+    "src/llm_study/availability_attempt.json": {
+      "mode": "lf",
+      "sha256": "f51717d9cfb7778ff9424738a12601271701380c2437ae9f3f1ce303fb75cebe"
+    },
+    "src/llm_study/client.py": {
+      "mode": "lf",
+      "sha256": "a0e84054ab5d9d13b3ed4d572ce22ee92ed73a8dd0c0e4084242fa8977002a73"
+    },
+    "src/llm_study/run.py": {
+      "mode": "lf",
+      "sha256": "058d01b58dafcb3f2f220ec19a6432b995cb29c1d6e8a36931b1de771925d599"
+    },
+    "src/revision_analysis.py": {
+      "mode": "lf",
+      "sha256": "30e81234766b283a41b81da151e1b948880d3573fb4e7f75f7c4c0941f978f86"
+    },
+    "src/run_experiments.py": {
+      "mode": "lf",
+      "sha256": "25a312856f043d621c6bdebf4beeaceeff674f14351e363db479bc36f78138c8"
+    },
+    "src/sim.py": {
+      "mode": "lf",
+      "sha256": "b705adf2964e46b9c1af90b38d5f6cbd65cc54739777f4116881255a74b02d43"
+    },
+    "src/stats_utils.py": {
+      "mode": "lf",
+      "sha256": "bd528dc747ab9cc8adfeb85e6780d0b8119dfcb69587ab7faf4dc60f37dded1a"
+    },
+    "tests/test_llm_client.py": {
+      "mode": "lf",
+      "sha256": "f50668006bb950ee5caeeb71cfc34afdb2e54e0b497f7f35b23dde64d3e43a49"
+    },
+    "tests/test_llm_protocol.py": {
+      "mode": "lf",
+      "sha256": "567f4f602d8d544aa9f950658fefd2a063467e0c12d7f5741fa2a482e86ced8f"
+    },
+    "tests/test_revision.py": {
+      "mode": "lf",
+      "sha256": "47f3974538c840854855c4fdffa68b581ed5862bb5ac805a5a21515addbb3d73"
+    },
+    "tests/test_sim.py": {
+      "mode": "lf",
+      "sha256": "b27ad97a8e145cca65bf9bdbe4744e35744d94d7025efd4bf746f5affab91202"
+    },
+    "requirements.txt": {
+      "mode": "lf",
+      "sha256": "038f0404bd1ae9bc55196b92fb724a9ab001d4b8933e3a96f3b35dc783d6ecda"
+    },
+    "Dockerfile": {
+      "mode": "lf",
+      "sha256": "a4e664731f33b8ac32ca6c4ca657045449f2107c5ad0778be6b8bf55498a60fb"
+    },
+    "run_all.sh": {
+      "mode": "lf",
+      "sha256": "037f58796b03eb3d905872a0e28c4ab512aa9292e5a86f7c40472dafd2075062"
+    },
+    "run_all.ps1": {
+      "mode": "lf",
+      "sha256": "9824ded57ebf2ec9da05cacd342c4c7270f68ea2b8f4c7e6fa4d2b994143abe2"
+    },
+    "paper/DarnerView templete.docx": {
+      "mode": "bytes",
+      "sha256": "8347415f10dcbb583f9a183499294562c38ddfd38e1060857e5a40a13f5be069"
+    }
+  }
+}

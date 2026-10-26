@@ -1,0 +1,46 @@
+{
+  "paper": "P5",
+  "normalization": "CSV line endings normalized to LF; scientific checks use exact parsed values",
+  "files": {
+    "results/dependency_extraction.csv": {
+      "mode": "lf",
+      "sha256": "0bf41cebfcb2045d27b8b9158f187b6184b5145cb1f83ff152cc597dcf1b7b72"
+    },
+    "results/e1_main.csv": {
+      "mode": "lf",
+      "sha256": "70a89b6b28ce5d5c9fb9a65986a6bf489b4bdca92a783e87408b1ad0e71d66ab"
+    },
+    "results/extraction_contrasts.csv": {
+      "mode": "lf",
+      "sha256": "520d66817e72bc3b0eec1a17cd66f54d89cc276bf556fd68747817bf74c29b21"
+    },
+    "results/extraction_summary.csv": {
+      "mode": "lf",
+      "sha256": "5c31ea7e3a3deea26777af6eace4420fa42682715b4c33cea465c3906405fae2"
+    },
+    "results/llm/dry_run.csv": {
+      "mode": "lf",
+      "sha256": "f7e02746912bdcb9e4f2bb4633a94d71e2ad3b28d17e49863957bdd303a76028"
+    },
+    "results/primary_paired.csv": {
+      "mode": "lf",
+      "sha256": "4d898b3763625f23c6842a867cc0a598bdccc58b3add1824cce295dfb6cdf59f"
+    },
+    "results/sweeps.csv": {
+      "mode": "lf",
+      "sha256": "5c15a157d39dda96cfd0b24952c8e3635c953097e5e6c15d5c8acf9e8159c421"
+    },
+    "results/table1_main.csv": {
+      "mode": "lf",
+      "sha256": "a3167de2f33000cf2e87466ad700af15399fe68253091e16e8095dab180a506f"
+    },
+    "results/table2_paired.csv": {
+      "mode": "lf",
+      "sha256": "7e3d46480ce2971b14c33d2a7cc1ca1c313487aeb1abb70e5d3959cfd609169c"
+    },
+    "results/table3_sweeps.csv": {
+      "mode": "lf",
+      "sha256": "9686560a8224f03b9f1b08cf5b0ca465e3fb8975f5309f8b82ae8a47235eee34"
+    }
+  }
+}

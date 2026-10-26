@@ -1,0 +1,23 @@
+{
+  "full_pipeline_image": "myarticle-p5:20261026-final",
+  "full_image_id": "sha256:c57a9498b45eae025cd4e159a0234985ff4d4a7a522b2ee0e5377482a71b22a3",
+  "full_pipeline_exit": 0,
+  "final_reporting_image": "myarticle-p5:20261026-ready2",
+  "reporting_image_id": "sha256:4d65be3c72ea2d082b258e1dfb86adba33833399314ffd77adb01d06de78cba1",
+  "final_reporting_exit": 0,
+  "reporting_change": "Clarified incidental-check wording, table widths and note placement only; every scientific source byte-identical to full-pipeline container.",
+  "scientific_source_hashes": {
+    "analyze.py": "f17e7fdb1f9bdb5bc2becb71bebfb27f98c57e15f7f1ddd0e35c9a3b04c7519e",
+    "revision_analysis.py": "30e81234766b283a41b81da151e1b948880d3573fb4e7f75f7c4c0941f978f86",
+    "run_experiments.py": "25a312856f043d621c6bdebf4beeaceeff674f14351e363db479bc36f78138c8",
+    "sim.py": "f2f2474b6eda33fc0fab81aeef01b1ccab6d311ac180c17f6b7d6f48136462ae",
+    "stats_utils.py": "bd528dc747ab9cc8adfeb85e6780d0b8119dfcb69587ab7faf4dc60f37dded1a",
+    "llm_study\\client.py": "a0e84054ab5d9d13b3ed4d572ce22ee92ed73a8dd0c0e4084242fa8977002a73",
+    "llm_study\\run.py": "058d01b58dafcb3f2f220ec19a6432b995cb29c1d6e8a36931b1de771925d599"
+  },
+  "host_runs": 2,
+  "main_csv_exact": 9,
+  "mock_csv_exact": 1,
+  "pdf_pages": 9,
+  "all_pages_visually_reviewed": true
+}

@@ -1,0 +1,59 @@
+{
+  "comparison": "exact parsed content",
+  "files": [
+    {
+      "file": "dependency_extraction.csv",
+      "rows": 30000,
+      "columns": 16,
+      "equal": true
+    },
+    {
+      "file": "e1_main.csv",
+      "rows": 108000,
+      "columns": 10,
+      "equal": true
+    },
+    {
+      "file": "extraction_contrasts.csv",
+      "rows": 8,
+      "columns": 7,
+      "equal": true
+    },
+    {
+      "file": "extraction_summary.csv",
+      "rows": 20,
+      "columns": 18,
+      "equal": true
+    },
+    {
+      "file": "primary_paired.csv",
+      "rows": 7,
+      "columns": 8,
+      "equal": true
+    },
+    {
+      "file": "sweeps.csv",
+      "rows": 552000,
+      "columns": 12,
+      "equal": true
+    },
+    {
+      "file": "table1_main.csv",
+      "rows": 9,
+      "columns": 24,
+      "equal": true
+    },
+    {
+      "file": "table2_paired.csv",
+      "rows": 42,
+      "columns": 9,
+      "equal": true
+    },
+    {
+      "file": "table3_sweeps.csv",
+      "rows": 138,
+      "columns": 7,
+      "equal": true
+    }
+  ]
+}
