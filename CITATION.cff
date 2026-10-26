@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this research artifact using its repository URL and exact commit."
+type: software
+title: "Dependency-Aware Commit Gating: Check Costs, Over-Stopping and Extracted-Graph Failures in Simulation"
+authors:
+  - family-names: "Ebrahimian Maqsoud"
+    given-names: "Sepide"
+    affiliation: "Department of Electrical Engineering, Hamedan University of Technology, Hamedan, Iran"
+  - family-names: "Mohseni Khah"
+    given-names: "Moslem"
+    affiliation: "Department of Computer Engineering, Islamic Azad University, Hamedan Branch, Hamedan, Iran"
+  - family-names: "Sadeghi"
+    given-names: "Navid"
+    affiliation: "Department of Electrical Engineering – Control, Shahid Beheshti University, Tehran, Iran"
+repository-code: https://github.com/moslem-mohseni/dependency-aware-commit-gating
+url: https://github.com/moslem-mohseni/dependency-aware-commit-gating
+abstract: "Reproducible parametric simulation study. No real-model experiment is claimed."
